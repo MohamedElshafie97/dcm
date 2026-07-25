@@ -240,34 +240,3 @@ You can combine multiple templates to create your perfect self-hosted environmen
 ### Generated docker compose file
 ![Generated docker-compose file](/public/compose-output.png)
 
-## 🤝 Contributing
-
-We welcome contributions to DCM! Whether you want to add new container definitions, improve documentation, or fix bugs, your help is appreciated.
-
-Please check our [CONTRIBUTING.md](CONTRIBUTING.md) guide for detailed instructions on:
-- How to add new container definitions
-- Code style guidelines
-- Testing requirements
-- Pull request process
-
-The easiest way to contribute is by adding new container definitions to our growing collection!
-
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 💖 Support
-
-If you find this tool useful, consider supporting the project by:
-
-- ⭐ Starring the repository on GitHub
-- 🐦 Sharing it on social media
-- ☕ [Buying me a coffee](https://ko-fi.com/ajnart)
-
-## 📞 Contact
-
-- GitHub: [@ajnart](https://github.com/ajnart)
-
----
-
-Made with ❤️ by [ajnart](https://github.com/ajnart) 
